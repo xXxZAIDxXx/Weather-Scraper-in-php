@@ -1,4 +1,4 @@
-# Weather-Scraper-in-php
+# Weather Scraper in php
 
 ---
 
